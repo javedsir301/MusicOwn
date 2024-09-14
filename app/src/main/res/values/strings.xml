@@ -1,0 +1,17 @@
+<resources>
+    <string name="app_name">Music Own</string>
+    <string name="music_own">Music Own</string>
+    <string name="song_name">Song Name</string>
+    <string name="pause_button_description">Pause</string>
+    <string name="next_button_description">Next</string>
+    <string name="previous_button_description">Previous</string>
+    <string name="status_message">Status Message</string>
+    <string name="allow_permission">Allow Permission</string>
+    <string name="allow">Allow</string>
+    <string name="my_application_name">My Application Name</string>
+    <string name="file_status">File Status</string>
+    <string name="_00_00">00:00</string>
+    <string name="_03_00">00:00</string>
+
+
+</resources>
